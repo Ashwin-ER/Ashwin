@@ -14,3 +14,4 @@ NOTE:
 1) Board= 25*25
 2) Snake starts at 5*5 (everytime)
 3) Arrows (up,down,left,right)
+![Screenshot 2023-08-26 124758](https://github.com/Ashwin-ER/Snake-Game/assets/143249415/145b19ba-634a-4fda-87f6-995f54de678f)
